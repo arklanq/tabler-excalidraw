@@ -1,0 +1,6 @@
+[submodule "sources/svg-to-excalidraw"]
+	path = sources/svg-to-excalidraw
+	url = https://github.com/excalidraw/svg-to-excalidraw.git
+[submodule "sources/tabler-icons"]
+	path = sources/tabler-icons
+	url = https://github.com/tabler/tabler-icons.git
